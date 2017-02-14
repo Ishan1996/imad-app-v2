@@ -16,7 +16,7 @@ button.onclick = function() {
     
 };
 //submit
-var nameInput=document.getElementById('name');
+lementById('name');
 var name = nameInput.value;
 var submit = document.getElementById('submit_btn');
 submit.onclick=function(){
